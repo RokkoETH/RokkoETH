@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-[Click aquí para copiar](https://gist.github.com/usuario/gistid/raw)
 <!--
 **RokkoETH/RokkoETH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
